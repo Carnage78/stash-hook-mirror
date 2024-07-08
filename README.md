@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ef-labs/stash-hook-mirror.png)](https://travis-ci.org/ef-labs/stash-hook-mirror)
+[![Java CI with Maven](https://github.com/Carnage78/stash-hook-mirror/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/Carnage78/stash-hook-mirror/actions/workflows/maven.yml)
 
 # Bitbucket Server Repository Hook for Mirroring
 
